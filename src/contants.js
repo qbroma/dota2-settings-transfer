@@ -12,12 +12,12 @@ export const I_UNDERSTAND_CHOICE = 'Понял';
 
 export const MAIN_MENU_MESSAGE = 'Выберите действие:';
 
-export const APPLY_FAVORITE_SETTINGS_MESSAGE = 'Применить любимые настройки';
-export const CREATE_BACKUP_MESSAGE = 'Создать бекап';
-export const RESTORE_FROM_BACKUP_MESSAGE = 'Восстановить из бекапа';
-export const TRANSFER_SETTINGS_MESSAGE = 'Перенести настройки между аккаунтами';
-export const SET_FAVORITE_MESSAGE = 'Установить любимые настройки';
-export const EXIT_FROM_PROGRAM_MESSAGE = 'Выйти';
+export const APPLY_FAVORITE_SETTINGS_MESSAGE = 'Применить сохранённые любимые настройки 🌟';
+export const CREATE_BACKUP_MESSAGE = 'Создать резервную копию настроек 💼';
+export const RESTORE_FROM_BACKUP_MESSAGE = 'Восстановить настройки из резервной копии 🔄';
+export const TRANSFER_SETTINGS_MESSAGE = 'Перенести настройки между аккаунтами 🔁';
+export const SET_FAVORITE_MESSAGE = 'Сохранить настройки как любимые 💾';
+export const EXIT_FROM_PROGRAM_MESSAGE = 'Выйти 🚪';
 
 
 export const I_WILL_NOT_BOTHER_YOU_ANYMORE_MESSAGE = 'Хорошо, больше надоедать не буду!';
