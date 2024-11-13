@@ -1,0 +1,13 @@
+{
+  "name": "dota2-settings-transfer",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "private": true,
+  "dependencies": {
+    "inquirer": "^12.1.0",
+    "vdf": "^0.0.2"
+  }
+}
